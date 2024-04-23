@@ -44,6 +44,7 @@ body *{
     position: relative;
     width: 70%;
     height: 500px;
+    margin: 1%;
    } 
    .sidebar{
     float: right;
